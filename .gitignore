@@ -1,0 +1,25 @@
+# Data
+data/
+*.csv
+*.xlsx
+*.parquet
+*.json
+
+# Models
+models/
+*.pkl
+*.joblib
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+*.key
+*.pem
